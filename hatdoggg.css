@@ -1,0 +1,21 @@
+.navbar a {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 10px 15px;
+        text-decoration: none;
+
+    }
+
+ .navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 5px;
+        height: 120px;
+        font-size: 15px;
+       }
+ .search-container {
+        align-content: right;
+    }
